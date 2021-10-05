@@ -24,3 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulorenan&theme=dark" alt="paulorenan" /></p>
 
+![Snake animation](https://github.com/paulorenan/paulorenan/blob/output/github-contribution-grid-snake.svg)
+
