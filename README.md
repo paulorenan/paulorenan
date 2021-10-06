@@ -26,3 +26,4 @@
 
 ![Snake animation](https://github.com/paulorenan/paulorenan/blob/output/github-contribution-grid-snake.svg)
 
+// teste comentario
