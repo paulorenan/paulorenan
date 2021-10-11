@@ -22,7 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulorenan&show_icons=true&theme=dark&locale=en" alt="paulorenan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulorenan&theme=dark" alt="paulorenan" /></p>
-
 ![Snake animation](https://github.com/paulorenan/paulorenan/blob/output/github-contribution-grid-snake.svg)
 
