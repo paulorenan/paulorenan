@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Renan</h1>
 <h3 align="center">A Fullstack student at Trybe</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://paulorenan.github.io](https://paulorenan.github.io)
 
