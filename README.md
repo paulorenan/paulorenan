@@ -45,9 +45,9 @@
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorenan&show_icons=true&theme=dark&locale=en&layout=compact" alt="paulorenan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorenan&show_icons=true&theme=dark&locale=en&layout=compact" alt="paulorenan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulorenan&show_icons=true&theme=dark&locale=en" alt="paulorenan" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulorenan&show_icons=true&theme=dark&locale=en" alt="paulorenan" /></p>
 
 ![Snake animation](https://github.com/paulorenan/paulorenan/blob/output/github-contribution-grid-snake.svg)
 
