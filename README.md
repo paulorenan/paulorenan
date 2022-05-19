@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://paulorenan.github.io](https://paulorenan.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://paulorenan.github.io](https://paulorenan.github.io) -->
 
 - 📫 How to reach me **able.paulorenan@gmail.com**
 
