@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Renan</h1>
-<h3 align="center">A Software Analyst at Ford</h3>
+<h3 align="center">A Software Developer at Ford</h3>
 
 - 🌱 I’m currently learning **Python, Java, Spring Boot**
 
