@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Paulo Renan</h1>
-<h3 align="center">Full Stack Developer</h3>
+👋 Hi there, I'm Paulo Renan!
 
-<!-- - 👨‍💻 All of my projects are available at [https://paulorenan.github.io](https://paulorenan.github.io) -->
+👨‍💻 Full Stack Developer | 🌍 Brazil
 
-- 📫 How to reach me **able.paulorenan@gmail.com**
+🔭 I'm currently working on enhancing my skills in full stack development.
+
+🌱 I'm proficient in Java, Spring Boot, Angular, React, Node.js, JavaScript, TypeScript, HTML, and CSS. Additionally, I have advanced knowledge in React, Vue, MySQL, PostgreSQL, Express.js, and Sequelize.
+
+💼 I've previously served as a technical lead for front-end development on a project, where I provided valuable insights for code improvements and feature implementations.
+
+📫 Feel free to reach out to me via email at [able.paulorenan@gmail.com](mailto:able.paulorenan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/p.renan9).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
